@@ -33,3 +33,5 @@
 
 # Directory
 .vs/*
+Debug/*
+*/Debug/*
